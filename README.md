@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustVanceit
-- 👀 I’m interested in Python and Data Analysis
+- 👀 I’m interested in Python and Data Analytics
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Python projects as well as data analysis projects
 - 📫 How to reach me princeadvanceagbenu@gmail.com
